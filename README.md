@@ -44,6 +44,18 @@ To make money, you need a goal, you should do something what you like and you ne
 - https://www.hackers-arise.com/osint
 - https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html
 
+## Other blue labs (free and paid)
+1. Chris Long Detection Lab (free).
+2. Hand made Security Onion/Vulnhub lab (free).
+3. Boss of the SOC Datasets with Splunk (free).
+4. Traffic analysis exercises on Malware-Traffic-Analysis.net (free).
+5. Cybrary Insider Pro labs (cheap)
+6. SANS NetWars (Core Continuous/DFIR) (very expensive, >$8K).
+7. ISACA CSX Labs (expensive).
+8. Immersive Labs (free if you have a .edu email). 
+9. eLearnSecurity Hera Labs (expensive >$2K).
+10. RangeForce Community (22 free labs, 400 paid)
+
 ## Red side free labs
 - https://checkout.ine.com/starter-pass?utm_source=74&utm_medium=referral&utm_campaign=starterpass&utm_content=vip
 
