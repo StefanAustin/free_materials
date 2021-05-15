@@ -86,6 +86,9 @@ Also #NIST Framework: https://lnkd.in/fwj2EEg
 9. eLearnSecurity Hera Labs (expensive >$2K).
 10. RangeForce Community (22 free labs, 400 paid)
 
+## Free tools
+- http://canarytokens.org/generate (generate face documents -> if someone opens it, you get the location)
+
 ## Red side free labs
 - https://checkout.ine.com/starter-pass?utm_source=74&utm_medium=referral&utm_campaign=starterpass&utm_content=vip
 
@@ -124,6 +127,9 @@ Also #NIST Framework: https://lnkd.in/fwj2EEg
 
 ### free training with AZ-900 exam voucher
 - https://www.microsoft.com/en-us/trainingdays
+
+## free ebooks
+- http://libgen.rs/
 
 ## Sources: 
 - https://freetraining.dfirdiva.com/category/free-training-categories
