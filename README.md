@@ -111,6 +111,7 @@ Also #NIST Framework: https://lnkd.in/fwj2EEg
 - https://docs.microsoft.com/en-us/learn/
 - https://www.youtube.com/user/professormesser All about CompTIA A+, Net+ and Sec+
 - https://alison.com/courses/network-and-security
+- https://github.com/OlivierLaflamme/Cheatsheet-God (very large repository with a ton of resources)
 
 
 ## Programming
