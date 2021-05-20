@@ -15,6 +15,8 @@ To make money, you need a goal, you should do something what you like and you ne
 
 -> The blue side has more jobs and you can start with Rangeforce free labs (https://go.rangeforce.com/free-cyber-security-training-community-edition). You will need a couple of days to learn everything. It is a SOC and tool introduction with hands-on labs. You can move on with the free splunk course to add more knowledge with a SIEM. If you like it, download Security Onion and start Boss of the SOC, Chris Long Detection Labs, cyberdefenders, etc. You want to make a career out of it? You can spend money: BTL1 is an option (~$700) or RangeForce certs (I do not know the price). 
 
+LetsDefend is also a great place to start, if you want to get a SOC Analyst job (https://letsdefend.io/)
+
 ## Cybersecurity introduction
 - https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=content-tab
 - https://tutorials.cyberaces.org/tutorials.html
