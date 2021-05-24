@@ -60,6 +60,7 @@ LetsDefend is also a great place to start, if you want to get a SOC Analyst job 
 For Students:
 
 65 Free Exercises https://lnkd.in/fmEnrJx
+https://pwnschool.com/
 
 Cyber Awareness https://lnkd.in/ftx9TP2
 
