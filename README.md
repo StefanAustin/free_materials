@@ -142,32 +142,61 @@ Also #NIST Framework: https://lnkd.in/fwj2EEg
 
 ## LinkedIn connections
 Kevin Apolinario: Everything to get ready for an IT job, he works with YouTube and Discord
+
 Neal Bridges: A famous Twitch streamer, extensive knowledge about Cybersecurity
+
 Gerald Auger, Ph.D.: Works mainly with YouTube, and it is all about Cybersecurity, mostly entry-level.
+
 DFIR Diva: Masterpiece of free/ affordable resources. Works with a fantastic website.
+
 Mic Merritt: Focus on LinkedIn, huge background about hiring people in Cybersecurity. You learn what you need to stand out.
+
 John Strand / Black Hills Information Security: Offers highest-end quality courses about Cybersecurity. These courses are pay-as-you-can. Additionally offers a ton of free 1-hour webinars (2 or 3 per week).
+
 Josh Mason: Cybersecurity instructor, shares free stuff and good posts.
+
 Archan Choudhury: High-end knowledge on the blue side. Works with YouTube.
+
 Silvio Condric: Has a Cybersecurity Newborn group and works with Discord.
+
 Christophe Foulon: Great posts about how to start a cybersecurity career 
+
 Renee Small: Many different topics, including a weekly video podcast
+
 Naomi Buckwalter: Great post for beginners in Cybersecurity (transmits hope)
+
 Jay Jay Davey: A blue teamer with a very big heard. Great posts on LinkedIn, works withs Discord and CyberDojo (mentoring)
+
 Katia D: A lot of helpful content, works with a website and YouTube
+
 Dr. Mansur Hasib: Has a recorded show about Cybersecurity.
+
 Heath Adams/The Cyber Mentor: His Zero-to-Hero course on YouTube is a legend, offers very affordable entry-level courses on his platform and on udemy
+
 Michael Refuerzo: A good motivator, it is a referral, I do not know him.
+
 Danish Haider: A motivative recruiter, active on Discord
+
 Daniel Lowrie: A very friendly and calm person. I love his courses and YouTube content
+
 John Hammond: Famous YouTuber, he is on the red side of the house
+
 Amr Thabet: Multiple people recommend him; I do not have him on my list, but my view is small, and the world is enormous.
+
 Busra Demir: Same here; it is a recommendation from others.
+
 Professor Messer: He has the best YouTube channel about A+, Network+, and Security+. You do not need anything else.
+
 David Bombal: YouTuber and on Twitch. I like his calm style, a wide variety of topics; in the past, more on the network side (CCNA). His udemy courses are legend.
+
 Kip Boyle: A YouTuber about Cybersecurity
+
 Alexandre BLANC: A lot of great content to think about security. It is usually brand new stuff.
+
 Bob Carver: Great content about Cybersecurity
+
 Dan Williams: Shares great Cybersecurity related posts
+
 Tamra Groff: Writes awesome comments
+
 Stefan Waldvogel: That is me, but most likely you have me already.
