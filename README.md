@@ -17,6 +17,8 @@ To make money, you need a goal, you should do something what you like and you ne
 
 LetsDefend is also a great place to start, if you want to get a SOC Analyst job (https://letsdefend.io/)
 
+Seach for games like https://threatgen.com/ if you like to play. 
+
 ## Cybersecurity introduction
 - https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=content-tab
 - https://tutorials.cyberaces.org/tutorials.html
