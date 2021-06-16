@@ -118,6 +118,9 @@ Also #NIST Framework: https://lnkd.in/fwj2EEg
 - https://alison.com/courses/network-and-security
 - https://github.com/OlivierLaflamme/Cheatsheet-God (very large repository with a ton of resources)
 
+## CISSP knowledge
+- https://www.youtube.com/channel/UCeJRBYVsg9jvNbYOh0Tiutg
+
 
 ## Programming
 
