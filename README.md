@@ -73,6 +73,9 @@ Cyber Awareness https://lnkd.in/ftx9TP2
 
 Also #NIST Framework: https://lnkd.in/fwj2EEg
 
+## Cyberdeception BHIS
+https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/
+
 ## Blue with hands-on lab
 - https://go.rangeforce.com/free-cyber-security-training-community-edition (CPE credits, hands-on)
 - https://osint-i1.thinkific.com/courses/osintmini
