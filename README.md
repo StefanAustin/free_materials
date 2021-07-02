@@ -9,7 +9,7 @@ To make money, you need a goal, you should do something what you like and you ne
 
 ### The us say you are going into the red side (pen testing):
 
--> INEs starter pass is great. Free labs and 1500 slides. You learn the basics in ethical hacking for free. If you like it, you can add The Cyber Mentors Zero to Hero course on YouTube. Sign up for tryhackme, HTB, etc ($10 a month). You want to make a carrer out of it? At this point you have to spend money for a real cert. OSCP is helpful to get a job, but it is about $1350.  Alternative: INE and their courses, but only if you do more than one cert in a year. 
+-> INEs starter pass is great. Free labs and 1500 slides. You learn the basics in ethical hacking for free. If you like it, you can add The Cyber Mentors Zero to Hero course on YouTube. Sign up for tryhackme, HTB, etc ($10 a month). You want to make a carrer out of it? At this point you have to spend money for a real cert. OSCP is helpful to get a job, but it is about $1350 fot 90 days.  Alternative: INE and their courses, but only if you do more than one cert in a year. 
 
 ### The blue side:
 
