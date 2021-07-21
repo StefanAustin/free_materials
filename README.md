@@ -94,6 +94,7 @@ https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-traini
 9. eLearnSecurity Hera Labs (expensive >$2K).
 10. RangeForce Community (22 free labs, 400 paid)
 11. Blue Team security (BTLO or BTL1)
+12. https://cyberdefenders.org/ (free, similar to BTLO)
 
 ## Free tools
 - http://canarytokens.org/generate (generate face documents -> if someone opens it, you get the location)
