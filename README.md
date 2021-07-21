@@ -91,8 +91,8 @@ https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-traini
 6. SANS NetWars (Core Continuous/DFIR) (very expensive, >$8K).
 7. ISACA CSX Labs (expensive).
 8. Immersive Labs (free if you have a .edu email). 
-9. eLearnSecurity Hera Labs (expensive >$2K).
-10. RangeForce Community (22 free labs, 400 paid)
+9. eLearnSecurity Hera Labs (~$750).
+10. RangeForce Community (22 free labs, >500 labs paid)
 11. Blue Team security (BTLO or BTL1)
 12. https://cyberdefenders.org/ (free, similar to BTLO)
 
