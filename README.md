@@ -58,6 +58,7 @@ Seach for games like https://threatgen.com/ if you like to play.
 10. Inteligenca - 100 Women in 100 Days Accelerator https://lnkd.in/gqWPByE
 11. Mossé Cyber Security Institute:
 -Free Internship for Women https://lnkd.in/fxv9qsA
+12. Network (Palo Alto): https://www.paloaltonetworks.com/resources/test-drives? 
 
 For Students:
 
