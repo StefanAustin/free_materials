@@ -1,7 +1,7 @@
 # Free materials and certs
 
 If you want to go into cybersecurity, at the beginning, you do not need money. Do the first things with free resources and if you like it, than spend money on certs.
-Some certs are free, like AZ-900 (Azure fundamentals) if you attend a free seminar with Microsoft Training Days.
+Some certs are free, like AZ-900 (Azure fundamentals) if you attend a free seminar with Microsoft Training Days or Microsofts's Ignite event in March.
 
 ## Ways to use this list
 
